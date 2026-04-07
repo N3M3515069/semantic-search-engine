@@ -33,4 +33,4 @@ semantic-search-engine/
 pip install -r requirements.txt
 python indexer.py
 streamlit run app.py
-``` .
+``` 
